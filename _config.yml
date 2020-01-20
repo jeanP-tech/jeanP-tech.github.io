@@ -6,7 +6,7 @@
 title: Hello, blog
 email: jeanP.tech@gmail.com
 description: This is Jean's tech blog.
-url: # the base hostname & protocol for your site
+url: https://jeanp-tech.github.io/
 keywords: ["blog", "jekyll", "tech", "Web", "development"]
 
 #
